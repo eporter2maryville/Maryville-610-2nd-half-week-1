@@ -1,3 +1,7 @@
+# Name: Brent Porter
+# GitHub ID: eporter2maryville
+# Assignment: 1.1 Reinforcement and Punishment
+
 #multiple calculator
 def multiple(x,y):
     x=x
